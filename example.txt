@@ -1,0 +1,4 @@
+Hi 
+add--->staging area
+commit--->local repository
+push--->remote repository
